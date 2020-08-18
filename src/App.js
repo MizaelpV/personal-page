@@ -12,7 +12,7 @@ const App = () => {
 		<>
 			<div className='App'>
 				<div className='container-text'>
-					<h1>Hello, I´m building this site to show my work</h1>
+					<h1>Hello, We are under construction</h1>
 					<p>
 						Stay tune please{' '}
 						<span role='img' aria-label='fire'>
@@ -21,29 +21,30 @@ const App = () => {
 					</p>
 				</div>
 				<img src={frontPage} alt='Front page' />
+
+				<footer>
+					<div className='social-media'>
+						<a
+							href='https://instagram.com/mizaelpvielma'
+							target='_blank'
+							rel='noopener noreferrer'>
+							<FontAwesomeIcon icon={faInstagram} />
+						</a>
+						<a
+							href='https://github.com/mizaelpv'
+							target='_blank'
+							rel='noopener noreferrer'>
+							<FontAwesomeIcon icon={faGithub} />
+						</a>
+						<a
+							href='https://twitter.com/mizaelpvielma'
+							target='_blank'
+							rel='noopener noreferrer'>
+							<FontAwesomeIcon icon={faTwitter} />
+						</a>
+					</div>
+				</footer>
 			</div>
-			<footer>
-				<div className='social-media'>
-					<a
-						href='https://instagram.com/mizaelpvielma'
-						target='_blank'
-						rel='noopener noreferrer'>
-						<FontAwesomeIcon icon={faInstagram} />
-					</a>
-					<a
-						href='https://github.com/mizaelpv'
-						target='_blank'
-						rel='noopener noreferrer'>
-						<FontAwesomeIcon icon={faGithub} />
-					</a>
-					<a
-						href='https://twitter.com/mizaelpvielma'
-						target='_blank'
-						rel='noopener noreferrer'>
-						<FontAwesomeIcon icon={faTwitter} />
-					</a>
-				</div>
-			</footer>
 		</>
 	);
 };
