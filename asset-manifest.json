@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MizaelpV/personal-page/static/css/main.c2e0b0f5.chunk.css",
+    "main.js": "/MizaelpV/personal-page/static/js/main.e982a071.chunk.js",
+    "main.js.map": "/MizaelpV/personal-page/static/js/main.e982a071.chunk.js.map",
+    "runtime-main.js": "/MizaelpV/personal-page/static/js/runtime-main.ec722928.js",
+    "runtime-main.js.map": "/MizaelpV/personal-page/static/js/runtime-main.ec722928.js.map",
+    "static/js/2.11305c4d.chunk.js": "/MizaelpV/personal-page/static/js/2.11305c4d.chunk.js",
+    "static/js/2.11305c4d.chunk.js.map": "/MizaelpV/personal-page/static/js/2.11305c4d.chunk.js.map",
+    "index.html": "/MizaelpV/personal-page/index.html",
+    "precache-manifest.f6fe14e2a54212b5931510eece234b26.js": "/MizaelpV/personal-page/precache-manifest.f6fe14e2a54212b5931510eece234b26.js",
+    "service-worker.js": "/MizaelpV/personal-page/service-worker.js",
+    "static/css/main.c2e0b0f5.chunk.css.map": "/MizaelpV/personal-page/static/css/main.c2e0b0f5.chunk.css.map",
+    "static/js/2.11305c4d.chunk.js.LICENSE.txt": "/MizaelpV/personal-page/static/js/2.11305c4d.chunk.js.LICENSE.txt",
+    "static/media/frontPagePortfolio.svg": "/MizaelpV/personal-page/static/media/frontPagePortfolio.c0c6e550.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec722928.js",
+    "static/js/2.11305c4d.chunk.js",
+    "static/css/main.c2e0b0f5.chunk.css",
+    "static/js/main.e982a071.chunk.js"
+  ]
+}
